@@ -13,7 +13,7 @@ A simple and interactive calculator designed to make everyday calculations quick
 
 ## 🔗 Try the Calculator
 
-👉 [Open Calculator](YOUR-LIVE-DEMO-LINK)
+👉 [Open Calculator](http://127.0.0.1:5500/final.html)
 
 ## 💻 Built With
 
