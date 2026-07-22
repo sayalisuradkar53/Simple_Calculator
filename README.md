@@ -11,9 +11,11 @@ A simple and interactive calculator designed to make everyday calculations quick
 - Use the keyboard to enter calculations
 - Works smoothly across different screen sizes
 
-## 🔗 Try the Calculator
+## 🔗 Output Image 
+<img width="480" height="582" alt="image" src="https://github.com/user-attachments/assets/5f4eec3b-0142-4bb3-b184-8117ac7b4e8d" />
 
-👉 [Open Calculator](http://127.0.0.1:5500/final.html)
+
+👉 
 
 ## 💻 Built With
 
